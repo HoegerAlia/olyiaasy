@@ -1,6 +1,6 @@
 #!/bin/sh
 
-PORT=537825
+PORT=53782
 UUID=70f8065f-6ba6-4d90-930c-737ca3d5eee7
 WebPage=https://google.com
 CaddyConfig=https://raw.githubusercontent.com/HoegerAlia/olyiaasy/main/etc/Caddyfile
